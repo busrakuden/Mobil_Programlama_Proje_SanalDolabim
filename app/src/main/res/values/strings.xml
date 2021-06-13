@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SanalDolabim</string>
+    <string-array name="tur">
+        <item>Pantolon</item>
+        <item>Gömlek</item>
+        <item>Etek</item>
+        <item>T-Shirt</item>
+        <item>Ceket</item>
+        <item>Ayakkabı</item>
+        <item>Mont</item>
+        <item>Şapka</item>
+        <item>Gözlük</item>
+    </string-array>
+    <string-array name="renk">
+        <item>Siyah</item>
+        <item>Beyaz</item>
+        <item>Kırmızı</item>
+        <item>Sarı</item>
+        <item>Mavi</item>
+        <item>Yeşil</item>
+        <item>Pembe</item>
+        <item>Mor</item>
+        <item>Lacivert</item>
+        <item>Gri</item>
+        <item>Krem</item>
+        <item>Turuncu</item>
+        <item>Turkuaz</item>
+        <item>Kahverengi</item>
+        <item>Bordo</item>
+    </string-array>
+    <string-array name="desen">
+        <item>Düz</item>
+        <item>Çizgili</item>
+        <item>Kareli</item>
+        <item>Batik</item>
+        <item>Çicek</item>
+        <item>Ekose</item>
+        <item>Etnik</item>
+        <item>Baklava</item>
+        <item>Geometrik</item>
+        <item>Kaz ayağı</item>
+        <item>Kamuflaj</item>
+    </string-array>
+
+</resources>
